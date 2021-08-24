@@ -1,0 +1,12 @@
+0,mouse,press,456,769,Button.left,1.08
+1,mouse,release,456,769,Button.left,0.18
+2,mouse,press,501,799,Button.left,0.66
+3,mouse,release,501,799,Button.left,0.18
+4,mouse,press,554,718,Button.left,1.08
+5,mouse,release,554,718,Button.left,0.18
+6,keyboard,press,0,0,Key.ctrl,1.7
+7,keyboard,release,0,0,Key.ctrl,0.18
+8,keyboard,press,0,0,`,2.13
+9,keyboard,release,0,0,`,0.18
+10,keyboard,press,0,0,Key.esc,3.88
+11,keyboard,release,0,0,Key.esc,0.2
